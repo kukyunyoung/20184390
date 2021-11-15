@@ -13,8 +13,8 @@ under line
 
 upper line
 
-*interesting
- *in
- *ter
- *es
- *ting
+* interesting
+ * in
+ * ter
+ * es
+ * ting
